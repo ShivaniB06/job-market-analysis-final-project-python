@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+requests
+python-dotenv
+fpdf
